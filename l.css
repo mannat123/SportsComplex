@@ -320,7 +320,6 @@ body{
 .caption2 {
   position: absolute;
   left: 0;
-  top: 40rem;
   width: 100%;
   text-align: center;
   color: #000;
@@ -346,7 +345,7 @@ body{
 .caption3 {
   position: absolute;
   left: 0;
-  bottom: 15rem;
+  top:4200px;
   width: 100%;
   text-align: center;
   color: #000;
